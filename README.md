@@ -8,6 +8,8 @@ Just set the URL of theme CSS to your Jenkins as follows.
 
 URL of theme CSS: `https://cdn.rawgit.com/innossh/jenkins-simple-theme/v0.0.1/header-red.css`
 
+![Screenshot-red.png](doc/Screenshot-red.png)
+
 You can also use the following themes!
 
 - https://cdn.rawgit.com/innossh/jenkins-simple-theme/v0.0.1/header-blue.css
